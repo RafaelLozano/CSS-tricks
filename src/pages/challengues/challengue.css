@@ -1,0 +1,15 @@
+/* Custom properties */
+:root{
+    --backgroundColor: #11052C;
+    --cardColor:#3E00FF;
+}
+body{
+    background-color: var(--backgroundColor);
+    color: aliceblue;
+    padding: 1rem;
+}
+main{
+    background-color: var(--cardColor);
+    border-radius: 1rem;
+    padding: 1rem;
+}
