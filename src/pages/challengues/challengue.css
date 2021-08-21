@@ -12,4 +12,6 @@ main{
     background-color: var(--cardColor);
     border-radius: 1rem;
     padding: 1rem;
+    width: 50%;
+    margin: 0 auto;
 }
